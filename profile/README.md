@@ -118,25 +118,17 @@
     </tr>
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <strong>전체 서비스 워크플로우 (LangGraph Workflow)</strong>
+            <strong>전체 서비스 워크플로우</strong>
         </td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <img src="[서브 아키텍처 1 URL]" alt="질문 교정 파이프라인" style="width: 500px; max-width: 500px;">
-        </td>
-        <td align="center" style="padding: 10px;">
-            <img src="[서브 아키텍처 2 URL]" alt="RAG 답변 생성 파이프라인" style="width: 500px; max-width: 500px;">
+          <img width="306" height="329" alt="LangGraph 파이프라인" src="https://github.com/user-attachments/assets/03b81a72-162e-4499-97cf-be1802b4a355" />
         </td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <strong>질문 교정 파이프라인 (RF + SHAP)</strong><br>
-            민원 평가 및 재작성 로직
-        </td>
-        <td align="center" style="padding: 10px;">
-            <strong>예상 답변 생성 파이프라인 (RAG)</strong><br>
-            법제처 데이터 기반 검색 및 답변 생성
+            <strong>LangGraph 파이프라인</strong><br>
         </td>
     </tr>
 </table>
