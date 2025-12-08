@@ -114,7 +114,8 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <img src="[전체 아키텍처 이미지 URL]" alt="Service Workflow" style="width: 90%; max-width: 900px;">
+            <img src="![Uploading image.png…]()
+" alt="Service Workflow" style="width: 90%; max-width: 900px;">
         </td>
     </tr>
     <tr>
