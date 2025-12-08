@@ -2,27 +2,15 @@
 
 
 
-서비스 소개
+## 💡 서비스 소개
 <div align="left">
 <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" />
 
 
-<table>
-  <tr>
-    <td width="160" align="center">
-      <img src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" width="150" height="140">
-    </td>
-    <td>
-      <b>개발 기간:</b> 2025. 11 ~ 2025. 12<br>
-      <b>팀명:</b> 프롬프트 중독자들<br>
-      <b>배포 주소:</b> <a href="https://github.com/aivle-agent/civil-complaint-ai">바로가기 Link</a>
-    </td>
-  </tr>
-</table>
 
 <h3>
   <img src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" align="left" width="150" height="140" style="margin-right: 20px;">
-  <br> 프롬프트 중독자들
+  <br> 팀명 : 프롬프트 중독자들
 </h3>
 
 <p>
