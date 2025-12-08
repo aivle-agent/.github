@@ -17,7 +17,7 @@
   <b>개발 기간:</b> 2025. 11 ~ 2025. 12<br>
   <b>배포 주소:</b> <a href="https://github.com/aivle-agent/civil-complaint-ai">https://github.com/aivle-agent/civil-complaint-ai</a>
 </p>
-<br clear="left"/> ```
+<br clear="left"/> 
 
 
 <h3><b>"채택률 0.45%의 벽을 넘어, 국민의 목소리를 실제 정책으로"</b></h3>
