@@ -110,28 +110,29 @@
 
 
 ## ⚙️ 아키텍처 구조
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
-    <tr>
-        <td colspan="2" align="center" style="padding: 10px;">
-          <img width="393" height="302" alt="스크린샷 2025-12-08 185528" src="https://github.com/user-attachments/assets/fd803d89-481b-469c-b08b-d127f3f4f397" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center" style="padding: 10px;">
-            <strong>전체 서비스 워크플로우</strong>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" style="padding: 10px;">
-          <img width="306" height="329" alt="LangGraph 파이프라인" src="https://github.com/user-attachments/assets/03b81a72-162e-4499-97cf-be1802b4a355" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center" style="padding: 10px;">
-            <strong>LangGraph 파이프라인</strong><br>
-        </td>
-    </tr>
-</table>
+
+<div align="center">
+
+### 🧩 전체 서비스 워크플로우
+<img 
+    src="https://github.com/user-attachments/assets/fd803d89-481b-469c-b08b-d127f3f4f397" 
+    alt="전체 서비스 워크플로우" 
+    width="80%" 
+    style="max-width: 900px; margin-top: 12px;"
+/>
+
+---
+
+### 🔀 LangGraph 파이프라인
+<img 
+    src="https://github.com/user-attachments/assets/03b81a72-162e-4499-97cf-be1802b4a355" 
+    alt="LangGraph 파이프라인" 
+    width="60%" 
+    style="max-width: 700px; margin-top: 12px;"
+/>
+
+</div>
+
 
 
 ## 🛠️ 기술 스택
