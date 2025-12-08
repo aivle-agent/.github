@@ -1,4 +1,3 @@
-![주토피아호랑이](https://github.com/user-attachments/assets/7bd9eee2-5133-4e77-832f-97cc86daf7a1)
 
 
 ## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" /> 서비스 소개
@@ -52,7 +51,7 @@
 <table>
   <tr>
     <!-- 팀장 -->
-    <td align="center"> <img src="[https://github.com/user-attachments/assets/f5f288e4-b3df-44e1-b05c-3319581359da]" width="160" height="160"></td>
+    <td align="center"> <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" ></td>
 
 
     <!-- 팀원 -->
