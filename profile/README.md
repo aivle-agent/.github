@@ -1,4 +1,4 @@
-
+![주토피아호랑이](https://github.com/user-attachments/assets/7bd9eee2-5133-4e77-832f-97cc86daf7a1)
 
 
 ## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" /> 서비스 소개
@@ -52,7 +52,8 @@
 <table>
   <tr>
     <!-- 팀장 -->
-    <td align="center"><img src="[팀원1 프로필 이미지 URL]" width="160" height="160"></td>
+    <td align="center"> ![주토피아호랑이](https://github.com/user-attachments/assets/ad139ac8-ecb8-499d-9887-a2263d4a28bd)</td>
+
     <!-- 팀원 -->
     <td align="center"><img src="[팀원2 프로필 이미지 URL]" width="160" height="160"></td>
   </tr>
