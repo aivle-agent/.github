@@ -163,29 +163,37 @@
     </tr>
 </table>
 
+
 ## 🛠️ 기술 스택
 
 ### Frontend (Example)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-<!-- 프론트엔드 스택에 맞게 수정 필요 -->
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-gold?style=flat)
+![styled-components](https://img.shields.io/badge/styled--components-v6.1.1-pink?style=flat)
+
 
 ### Backend & AI Server
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Framework-red?style=flat)
 
 ### AI Model & Data
 ![Qwen2.5](https://img.shields.io/badge/Qwen2.5-Model-blue?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-<!-- Kanana, RF, SHAP 관련 커스텀 배지 사용 가능 -->
+![Kanana-nano-2.1b-embedding](https://img.shields.io/badge/kanana--nano--2.1b--embedding-Model-orange?style=flat)
+![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-LLM-blueviolet?style=flat)
+![Qwen2.5-3B-Instruct](https://img.shields.io/badge/Qwen2.5--3B--Instruct-LLM-lightblue?style=flat)
+![RandomForest](https://img.shields.io/badge/Random_Forest-Model-green?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-yellow?style=flat)
+
 
 ### DB & Infra
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Collaboration Tool
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat)
