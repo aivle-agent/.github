@@ -1,7 +1,7 @@
 
 
 
-# <img src="<img width="1024" height="977" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />
+# <img src="<img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />
 " style="height: 1em; vertical-align: middle;"> National Proposal Assistant Agent (국민제안 도우미)
 
 ![메인 배너 이미지]([메인 배너 이미지 URL])
