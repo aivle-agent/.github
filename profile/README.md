@@ -52,7 +52,8 @@
 <table>
   <tr>
     <!-- 팀장 -->
-    <td align="center"> ![주토피아호랑이](https://github.com/user-attachments/assets/ad139ac8-ecb8-499d-9887-a2263d4a28bd)</td>
+    <td align="center"> <img src="[https://github.com/user-attachments/assets/f5f288e4-b3df-44e1-b05c-3319581359da]" width="160" height="160"></td>
+
 
     <!-- 팀원 -->
     <td align="center"><img src="[팀원2 프로필 이미지 URL]" width="160" height="160"></td>
