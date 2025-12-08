@@ -51,7 +51,7 @@
 <table>
   <tr>
     <!-- 팀장 -->
-    <td align="center"> <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" ></td>
+    <td align="center"> <img width="160" height="160" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/61151751-ed4a-44c4-a09f-373e033c4765" ></td>
 
 
     <!-- 팀원 -->
