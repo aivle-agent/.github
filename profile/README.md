@@ -28,7 +28,7 @@
 <b>"내 제안은 왜 항상 채택되지 않을까요?"</b> <br/>
 많은 국민이 지역사회 문제를 해결하기 위해 '국민신문고'에 제안을 올리지만, <b>낮은 채택률(약 0.45%)</b>로 인해 실제 정책 변화로 이어지기 어렵습니다. 제안 내용의 구조적 미흡, 정책 용어의 부재, 기존 법령과의 중복성 등이 그 원인입니다.
 
-**국민제안 도우미 AGENT**는 생성형 AI를 활용하여 일반 국민의 막연한 민원을 **'채택 가능한 수준의 정책 제안서'로 교정**해주고, 법령과 판례를 기반으로 **'예상 행정 답변'**을 미리 제공하는 AI 서비스입니다. 이를 통해 국민의 효능감을 높이고, 행정관의 불필요한 검토 업무를 줄여 실질적인 사회 문제 해결을 돕습니다.
+**국민제안 도우미 AGENT**는 생성형 AI를 활용하여 일반 국민의 막연한 민원을 **'채택 가능한 수준의 정책 제안서'로 교정**해주고, 법령과 판례를 기반으로 '예상 행정 답변'을 미리 제공하는 AI 서비스입니다. 이를 통해 국민의 효능감을 높이고, 행정관의 불필요한 검토 업무를 줄여 실질적인 사회 문제 해결을 돕습니다.
 
 <br/>
 
@@ -60,7 +60,7 @@
     <td align="center"><a href="https://github.com/Jongduckk">[이종환]</td>
   </tr>
     <tr>
-    <td align="center">질문 교정 Agent 모델링<br>(RF & SHAP)</td>
+    <td align="center">LangGraph 워크플로우<br>TDD & CI설계</td>
     <td align="center">예상 답변 RAG 구축<br>(Vector DB & Retrieval)</td>
   </tr>
   <tr>
@@ -72,10 +72,11 @@
     <td align="center"><a href="https://github.com/sungwon0206">[홍성원]</td>
   </tr>
     <tr>
-    <td align="center">LangGraph 워크플로우 설계</td>
-    <td align="center">데이터 전처리 및<br>Bandit 알고리즘 구현</td>
+    <td align="center">데이터 전처리 및<br>Self-Refinement 알고리즘 구현</td>
+    <td align="center">질문 교정 Agent 모델링<br>(SHAP)</td>
   </tr>
 </table>
+      
 ## 🤖 주요 기능
 
 - **AI 제안서 교정 (Proposal Correction)**  
