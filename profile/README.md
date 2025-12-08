@@ -52,11 +52,11 @@
 <table>
   <tr>
     <!-- 팀장 -->
-    <td align="center"> <img width="160" height="160" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/61151751-ed4a-44c4-a09f-373e033c4765" ></td>
+    <td align="center"> <img width="160" height="160" src="https://github.com/user-attachments/assets/61151751-ed4a-44c4-a09f-373e033c4765" ></td>
 
 
     <!-- 팀원 -->
-    <td align="center"> <img src="https://github.com/user-attachments/assets/40f31374-56dc-4e5f-b8da-702ce32e3d68" width="160" height="160></td>
+    <td align="center"> <img src="https://github.com/user-attachments/assets/40f31374-56dc-4e5f-b8da-702ce32e3d68" width="160" height="160" ></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/younghosck">[강영호]</td>
