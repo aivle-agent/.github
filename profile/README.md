@@ -47,47 +47,24 @@
     <td align="center"><img src="[팀원2 프로필 이미지 URL]" width="160" height="160"></td>
   </tr>
   <tr>
-    <td align="center"><a href="[팀원1 깃허브 링크]">[팀원1 이름]</td>
-    <td align="center"><a href="[팀원2 깃허브 링크]">[팀원2 이름]</td>
+    <td align="center"><a href="[https://github.com/younghosck]">[강영호]</td>
+    <td align="center"><a href="[https://github.com/Jongduckk]">[이종환]</td>
   </tr>
     <tr>
     <td align="center">질문 교정 Agent 모델링<br>(RF & SHAP)</td>
     <td align="center">예상 답변 RAG 구축<br>(Vector DB & Retrieval)</td>
   </tr>
-</table>
-
-### Backend & Data Pipeline
-
-<table>
   <tr>
     <td align="center"><img src="[팀원3 프로필 이미지 URL]" width="160"></td>
     <td align="center"><img src="[팀원4 프로필 이미지 URL]" width="160"></td>
   </tr>
   <tr>
-    <td align="center"><a href="[팀원3 깃허브 링크]">[팀원3 이름]</td>
-    <td align="center"><a href="[팀원4 깃허브 링크]">[팀원4 이름]</td>
+    <td align="center"><a href="[https://github.com/wonnowone]">[이재원]</td>
+    <td align="center"><a href="[https://github.com/sungwon0206]">[홍성원]</td>
   </tr>
     <tr>
     <td align="center">LangGraph 워크플로우 설계</td>
     <td align="center">데이터 전처리 및<br>Bandit 알고리즘 구현</td>
-  </tr>
-</table>
-
-### Frontend & Project Management
-
-<table>
-  <tr>
-    <td align="center"><img src="[팀원5 프로필 이미지 URL]" width="160"></td>
-    <td align="center"><img src="[팀원6 프로필 이미지 URL]" width="160"></td>
-    <!-- 필요시 td 추가 -->
-  </tr>
-  <tr>
-    <td align="center"><a href="[팀원5 깃허브 링크]">[팀원5 이름]</td>
-    <td align="center"><a href="[팀원6 깃허브 링크]">[팀원6 이름]</td>
-  </tr>
-  <tr>
-    <td align="center">UI/UX 개발 & 디자인</td>
-    <td align="center">기획 & PM</td>
   </tr>
 </table>
 
