@@ -1,10 +1,8 @@
-제공해주신 템플릿 양식에 맞춰 **"국민제안 도우미 AGENT 서비스"** (팀명: 프롬프트 중독자들)의 내용을 작성해 드립니다.
 
-이미지 URL, 깃허브 링크 등 `[]`로 표시된 부분만 실제 프로젝트 정보로 교체하시면 바로 사용하실 수 있습니다.
 
----
 
-# <img src="[프로젝트 로고 이미지 URL]" style="height: 1em; vertical-align: middle;"> National Proposal Assistant Agent (국민제안 도우미)
+# <img src="<img width="1024" height="977" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />
+" style="height: 1em; vertical-align: middle;"> National Proposal Assistant Agent (국민제안 도우미)
 
 ![메인 배너 이미지]([메인 배너 이미지 URL])
 
