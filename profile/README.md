@@ -1,9 +1,7 @@
 
 
 
-# <img src="<img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />\
-
-## ⭐ 서비스 소개
+## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />⭐ 서비스 소개
 <div align="left">
 <img src="[서비스 소개용 작은 이미지 URL]" width=200>
 
