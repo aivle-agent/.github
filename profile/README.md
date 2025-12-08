@@ -1,4 +1,10 @@
-# <img src="[프로젝트 로고 이미지 URL]" style="height: 1em; vertical-align: middle;"> [프로젝트 영문 이름]
+제공해주신 템플릿 양식에 맞춰 **"국민제안 도우미 AGENT 서비스"** (팀명: 프롬프트 중독자들)의 내용을 작성해 드립니다.
+
+이미지 URL, 깃허브 링크 등 `[]`로 표시된 부분만 실제 프로젝트 정보로 교체하시면 바로 사용하실 수 있습니다.
+
+---
+
+# <img src="[프로젝트 로고 이미지 URL]" style="height: 1em; vertical-align: middle;"> National Proposal Assistant Agent (국민제안 도우미)
 
 ![메인 배너 이미지]([메인 배너 이미지 URL])
 
@@ -7,35 +13,39 @@
 <div align="left">
 <img src="[서비스 소개용 작은 이미지 URL]" width=200>
 
-> 개발 기간: 202X. XX ~ 202X. XX
+> **개발 기간:** 2025. XX ~ 2025. XX
 > 
-> 주소 : [배포된 서비스 URL]
+> **팀명:** 프롬프트 중독자들
+>
+> **배포 주소 :** [배포된 서비스 URL]
 
-<h3><b>"[서비스 슬로건 또는 핵심 문구]"</b></h3>
+<h3><b>"채택률 0.45%의 벽을 넘어, 국민의 목소리를 실제 정책으로"</b></h3>
 
 <p>
-"[사용자에게 던지는 질문이나 문제 제기]" <br/>
-"[서비스가 주는 가치]"
+<b>"내 제안은 왜 항상 채택되지 않을까요?"</b> <br/>
+많은 국민이 지역사회 문제를 해결하기 위해 '국민신문고'에 제안을 올리지만, <b>낮은 채택률(약 0.45%)</b>로 인해 실제 정책 변화로 이어지기 어렵습니다. 제안 내용의 구조적 미흡, 정책 용어의 부재, 기존 법령과의 중복성 등이 그 원인입니다.
 
-[서비스에 대한 상세 설명 문단입니다. 어떤 문제를 해결하고자 하는지, 누구를 위한 서비스인지 서술해주세요.]
+**국민제안 도우미 AGENT**는 생성형 AI를 활용하여 일반 국민의 막연한 민원을 **'채택 가능한 수준의 정책 제안서'로 교정**해주고, 법령과 판례를 기반으로 **'예상 행정 답변'**을 미리 제공하는 AI 서비스입니다. 이를 통해 국민의 효능감을 높이고, 행정관의 불필요한 검토 업무를 줄여 실질적인 사회 문제 해결을 돕습니다.
 
-<br/>**"[핵심 키워드 1]"** <br/>
-[키워드 1에 대한 설명] <br/>
+<br/>
 
-**"[핵심 키워드 2]"** <br/>
-[키워드 2에 대한 설명] <br/>
+**"1. AI 질문 교정 (Question Correction)"** <br/>
+비전문적인 국민의 제안을 명확성, 구체성, 사실성 등을 기준으로 분석하고, **RandomForest와 SHAP 알고리즘**을 활용해 행정 용어와 구조를 갖춘 제안서로 재작성(Refining)합니다. <br/>
 
-**"[핵심 키워드 3]"** <br/>
-[키워드 3에 대한 설명] <br/>
+**"2. RAG 기반 예상 답변 (Expected Answer)"** <br/>
+약 7만 건의 법제처 해석례와 행정 데이터를 학습한 RAG(검색 증강 생성) 시스템을 통해, 제안 제출 시 **행정기관이 보낼 것으로 예상되는 답변**과 법적 근거를 미리 확인할 수 있습니다. <br/>
+
+**"3. 업무 효율화 및 채택률 제고"** <br/>
+중복되거나 실현 불가능한 제안을 사전에 필터링하여 **행정 담당자의 검토 시간을 단축**하고, 국민에게는 제안의 **질적 향상 가이드라인**을 제공합니다. <br/>
 
 
-<h3>[마지막으로 강조하고 싶은 문구]</h3>
+<h3>단순 민원 처리에서 벗어나, 함께 만드는 정책의 시작을 돕습니다.</h3>
 </p>
 </div>
 
-## 🤝 팀원 소개: [팀명]
+## 🤝 팀원 소개: 프롬프트 중독자들
 
-### [역할 그룹 1 (예: Project Manager & Infra)]
+### AI & Modeling (핵심 기능 구현)
 
 <table>
   <tr>
@@ -49,12 +59,12 @@
     <td align="center"><a href="[팀원2 깃허브 링크]">[팀원2 이름]</td>
   </tr>
     <tr>
-    <td align="center">[팀원1 상세 역할]</td>
-    <td align="center">[팀원2 상세 역할]</td>
+    <td align="center">질문 교정 Agent 모델링<br>(RF & SHAP)</td>
+    <td align="center">예상 답변 RAG 구축<br>(Vector DB & Retrieval)</td>
   </tr>
 </table>
 
-### [역할 그룹 2 (예: Frontend & Design)]
+### Backend & Data Pipeline
 
 <table>
   <tr>
@@ -66,12 +76,12 @@
     <td align="center"><a href="[팀원4 깃허브 링크]">[팀원4 이름]</td>
   </tr>
     <tr>
-    <td align="center">[팀원3 상세 역할]</td>
-    <td align="center">[팀원4 상세 역할]</td>
+    <td align="center">LangGraph 워크플로우 설계</td>
+    <td align="center">데이터 전처리 및<br>Bandit 알고리즘 구현</td>
   </tr>
 </table>
 
-### [역할 그룹 3 (예: Backend & AI)]
+### Frontend & Project Management
 
 <table>
   <tr>
@@ -84,49 +94,48 @@
     <td align="center"><a href="[팀원6 깃허브 링크]">[팀원6 이름]</td>
   </tr>
   <tr>
-    <td align="center">[팀원5 상세 역할]</td>
-    <td align="center">[팀원6 상세 역할]</td>
+    <td align="center">UI/UX 개발 & 디자인</td>
+    <td align="center">기획 & PM</td>
   </tr>
 </table>
 
 ## 🤖 주요 기능
 
-- **[기능 1 이름]**  
-    - [기능 상세 설명 1]
-    - [기능 상세 설명 2]
+- **AI 제안서 교정 (Proposal Correction)**  
+    - 사용자의 민원 텍스트를 입력받아 명확성, 구체성, 법률적 타당성 점수를 산출합니다.
+    - `Qwen2.5-3B-Instruct` 모델을 통해 비구조화된 텍스트를 공공기관 양식에 맞는 구조화된 제안서로 변환합니다.
  
-- **[기능 2 이름]**
-    - [기능 상세 설명 1]
-    - [기능 상세 설명 2]
+- **예상 답변 및 법령 매칭 (Expected Answer & Legal Matching)**
+    - `kanana_nano_2.1b` 임베딩 모델과 Chroma DB를 활용하여 유사한 과거 민원 사례와 법령을 검색합니다.
+    - 제안 내용에 대해 관계 법령에 의거한 승인/반려 가능성과 구체적인 사유(예상 답변)를 생성합니다.
 
-- **[기능 3 이름]**
-    - [기능 상세 설명 1]
-    - [기능 상세 설명 2]
+- **자가 진단 및 가이드라인 제공 (Self-Diagnosis)**
+    - 사용자가 제출 전 중복 제안 여부를 스스로 판단할 수 있도록 돕습니다.
+    - 제안이 반려될 가능성이 높을 경우, 보완해야 할 구체적인 가이드라인(키워드, 근거 데이터 등)을 제시합니다.
 
 ## 💻 화면
 
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td align="center" style="width: 50%; padding: 10px;">
-            <img src="[화면 이미지 1 URL]" alt="[화면 설명 1]" style="width: 100%; max-width: 500px;">
-            <p align="center"><strong>[화면 이름 1]</strong></p>
+            <img src="[화면 이미지 1 URL]" alt="메인 제안 작성 화면" style="width: 100%; max-width: 500px;">
+            <p align="center"><strong>1. 제안 내용 작성 및 AI 분석 요청</strong></p>
         </td>
         <td align="center" style="width: 50%; padding: 10px;">
-            <img src="[화면 이미지 2 URL]" alt="[화면 설명 2]" style="width: 100%; max-width: 500px;">
-            <p align="center"><strong>[화면 이름 2]</strong></p>
+            <img src="[화면 이미지 2 URL]" alt="질문 교정 결과 화면" style="width: 100%; max-width: 500px;">
+            <p align="center"><strong>2. AI가 교정한 구조화된 제안서 확인</strong></p>
         </td>
     </tr>
     <tr>
         <td align="center" style="width: 50%; padding: 10px;">
-            <img src="[화면 이미지 3 URL]" alt="[화면 설명 3]" style="width: 100%; max-width: 500px;">
-            <p align="center"><strong>[화면 이름 3]</strong></p>
+            <img src="[화면 이미지 3 URL]" alt="예상 답변 결과 화면" style="width: 100%; max-width: 500px;">
+            <p align="center"><strong>3. 관련 법령 기반 예상 답변 출력</strong></p>
         </td>
         <td align="center" style="width: 50%; padding: 10px;">
-            <img src="[화면 이미지 4 URL]" alt="[화면 설명 4]" style="width: 100%; max-width: 500px;">
-            <p align="center"><strong>[화면 이름 4]</strong></p>
+            <img src="[화면 이미지 4 URL]" alt="최종 제출 화면" style="width: 100%; max-width: 500px;">
+            <p align="center"><strong>4. 처리 기관 선택 및 최종 제출</strong></p>
         </td>
     </tr>
-    <!-- 필요 시 tr 태그로 행 추가 -->
 </table>
 
 
@@ -134,55 +143,57 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <img src="[전체 아키텍처 이미지 URL]" alt="전체 아키텍처" style="width: 90%; max-width: 900px;">
+            <img src="[전체 아키텍처 이미지 URL]" alt="Service Workflow" style="width: 90%; max-width: 900px;">
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <strong>전체 아키텍처 / 시스템 구성도</strong>
+            <strong>전체 서비스 워크플로우 (LangGraph Workflow)</strong>
         </td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <img src="[서브 아키텍처 1 URL]" alt="[서브 아키텍처 1 설명]" style="width: 500px; max-width: 500px;">
+            <img src="[서브 아키텍처 1 URL]" alt="질문 교정 파이프라인" style="width: 500px; max-width: 500px;">
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="[서브 아키텍처 2 URL]" alt="[서브 아키텍처 2 설명]" style="width: 500px; max-width: 500px;">
+            <img src="[서브 아키텍처 2 URL]" alt="RAG 답변 생성 파이프라인" style="width: 500px; max-width: 500px;">
         </td>
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <strong>[서브 아키텍처 1 이름]</strong>
+            <strong>질문 교정 파이프라인 (RF + SHAP)</strong><br>
+            민원 평가 및 재작성 로직
         </td>
         <td align="center" style="padding: 10px;">
-            <strong>[서브 아키텍처 2 이름]</strong>
+            <strong>예상 답변 생성 파이프라인 (RAG)</strong><br>
+            법제처 데이터 기반 검색 및 답변 생성
         </td>
     </tr>
 </table>
 
 ## 🛠️ 기술 스택
-<!-- Shields.io 배지 생성 코드: https://shields.io/ -->
-<!-- 예시 포맷: ![Name](https://img.shields.io/badge/이름-색상코드?style=flat&logo=로고이름&logoColor=white) -->
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-<!-- 여기에 프론트엔드 배지 추가 -->
+### Frontend (Example)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<!-- 프론트엔드 스택에 맞게 수정 필요 -->
 
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-<!-- 여기에 백엔드 배지 추가 -->
+### Backend & AI Server
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-### AI / Data
-<!-- 여기에 AI 관련 배지 추가 -->
+### AI Model & Data
+![Qwen2.5](https://img.shields.io/badge/Qwen2.5-Model-blue?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<!-- Kanana, RF, SHAP 관련 커스텀 배지 사용 가능 -->
 
-### Infra
-<!-- 여기에 인프라 배지 추가 -->
-
-### DB
-<!-- 여기에 DB 배지 추가 -->
+### DB & Infra
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Collaboration Tool
-<!-- 여기에 협업 툴 배지 추가 -->
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
