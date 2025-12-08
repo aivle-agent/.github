@@ -1,7 +1,7 @@
 
 
 
-## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" />⭐ 서비스 소개
+## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" /> 서비스 소개
 <div align="left">
 <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" />
 
@@ -11,7 +11,7 @@
 > 
 > **팀명:** 프롬프트 중독자들
 >
-> **배포 주소 :** [배포된 서비스 URL]
+> **배포 주소 :** [https://github.com/aivle-agent/civil-complaint-ai]
 
 <h3><b>"채택률 0.45%의 벽을 넘어, 국민의 목소리를 실제 정책으로"</b></h3>
 
