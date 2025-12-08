@@ -113,8 +113,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <img src="![Uploading image.png…]()
-" alt="Service Workflow" style="width: 90%; max-width: 900px;">
+          <img width="393" height="302" alt="스크린샷 2025-12-08 185528" src="https://github.com/user-attachments/assets/fd803d89-481b-469c-b08b-d127f3f4f397" />
         </td>
     </tr>
     <tr>
