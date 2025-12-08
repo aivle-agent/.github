@@ -1,6 +1,7 @@
 
 
 
+
 ## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" /> 서비스 소개
 <div align="left">
 <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" />
@@ -63,8 +64,8 @@
     <td align="center">예상 답변 RAG 구축<br>(Vector DB & Retrieval)</td>
   </tr>
   <tr>
-    <td align="center"><img src="[팀원3 프로필 이미지 URL]" width="160"></td>
-    <td align="center"><img src="[팀원4 프로필 이미지 URL]" width="160"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/eeaee26d-b0fc-4dd6-b87c-3c5fe71d4222" width="160"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/9ab55c1c-ca9a-42b5-bfd5-f15866cd6743" width="160"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/wonnowone">[이재원]</td>
