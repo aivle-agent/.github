@@ -1,5 +1,6 @@
 
 
+
 ## <img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/d8a177c7-9c9f-4d65-b954-71f8243cc28b" /> 서비스 소개
 <div align="left">
 <img width="1000" height="500" alt="Gemini_Generated_Image_rjdkhcrjdkhcrjdk" src="https://github.com/user-attachments/assets/b30363d2-5675-4577-b0e5-26c25ac4cf29" />
@@ -55,7 +56,7 @@
 
 
     <!-- 팀원 -->
-    <td align="center"><img src="[팀원2 프로필 이미지 URL]" width="160" height="160"></td>
+    <td align="center"> <img src="https://github.com/user-attachments/assets/40f31374-56dc-4e5f-b8da-702ce32e3d68" width="160" height="160></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/younghosck">[강영호]</td>
