@@ -43,9 +43,9 @@
 
 <table>
   <tr>
-    <!-- 팀원 1 -->
+    <!-- 팀장 -->
     <td align="center"><img src="[팀원1 프로필 이미지 URL]" width="160" height="160"></td>
-    <!-- 팀원 2 -->
+    <!-- 팀원 -->
     <td align="center"><img src="[팀원2 프로필 이미지 URL]" width="160" height="160"></td>
   </tr>
   <tr>
@@ -69,7 +69,6 @@
     <td align="center">데이터 전처리 및<br>Bandit 알고리즘 구현</td>
   </tr>
 </table>
-
 ## 🤖 주요 기능
 
 - **AI 제안서 교정 (Proposal Correction)**  
