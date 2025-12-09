@@ -34,7 +34,7 @@
 <b>"내 제안은 왜 항상 채택되지 않을까요?"</b> <br/>
 많은 국민이 지역사회 문제를 해결하기 위해 '국민신문고'에 제안을 올리지만, <b>낮은 채택률(약 0.45%)</b>로 인해 실제 정책 변화로 이어지기 어렵습니다. 제안 내용의 구조적 미흡, 정책 용어의 부재, 기존 법령과의 중복성 등이 그 원인입니다.
 
-**국민제안 도우미 AGENT**는 생성형 AI를 활용하여 일반 국민의 막연한 민원을 **'채택 가능한 수준의 정책 제안서'로 교정**해주고, 법령과 판례를 기반으로 '예상 행정 답변'을 미리 제공하는 AI 서비스입니다. 이를 통해 국민의 효능감을 높이고, 행정관의 불필요한 검토 업무를 줄여 실질적인 사회 문제 해결을 돕습니다.
+**국민제안 도우미 AGENT**는 생성형 AI를 활용하여 일반 국민의 막연한 민원을 **'채택 가능한 수준의 정책 제안서'로 교정**해주고, **법령과 판례를 기반으로 '예상 행정 답변'을 미리 제공**하는 AI 서비스입니다. 이를 통해 국민의 효능감을 높이고, 행정관의 불필요한 검토 업무를 줄여 실질적인 사회 문제 해결을 돕습니다.
 
 <br/>
 
@@ -152,7 +152,7 @@
 
 ## 🛠️ 기술 스택
 
-### Frontend (Example)
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=flat)
